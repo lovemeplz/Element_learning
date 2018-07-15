@@ -10,7 +10,11 @@
             Layout
         </router-link>
     </li>
-    <li></li>
+    <li>
+        <router-link :to="{ name: 'Container'}">
+            Container
+        </router-link>
+    </li>
     <li></li>
     <li></li>
   </ul>
