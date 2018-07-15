@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # element
 
 > a project for practice element
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Element_learning
+for practice
+>>>>>>> 49595f0ffea0bd45b9d738c95e8124975d0a8e3e
