@@ -15,6 +15,11 @@
             Container
         </router-link>
     </li>
+    <li>
+        <router-link :to="{ name: 'Select'}">
+            Select
+        </router-link>
+    </li>
     <li></li>
     <li></li>
   </ul>
